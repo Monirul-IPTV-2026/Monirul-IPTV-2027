@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/Monirul-IPTV-2026/Monirul-IPTV-2027/main/monirul-islam.png",MONIRUL ISLAM
+
+#EXTINF:-1 tvg-id="MONIRUL0" tvg-name="MONIRUL IPTV" tvg-logo="https://raw.githubusercontent.com/Monirul-IPTV-2026/Monirul-IPTV-2027/main/ChatGPT%20Image%20Sep%2030%2C%202026%2C%2001_07_19%20PM.png" group-title="MONIRUL IPTV",MONIRUL IPTV
+STREAM_URL_HERE
 
 #EXTINF:-1 tvg-chno="2" tvg-id="btvhd" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Bangla",BTV.HD
 #https://btv.hridoytv-channel.workers.dev/btv.m3u8
