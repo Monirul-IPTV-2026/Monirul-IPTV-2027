@@ -2,6 +2,6 @@
 #EXTINF:-1 tvg-id="MONIRUL0" tvg-name="MONIRUL IPTV" tvg-logo="https://raw.githubusercontent.com/Monirul-IPTV-2026/Monirul-IPTV-2027/main/ChatGPT%20Image%20Sep%2029%2C%202026%2C%2001_57_42%20AM.png",MONIRUL IPTV 📱 01810986118
 https://raw.githubusercontent.com/Monirul-IPTV-2026/Monirul-IPTV-2027/main/ChatGPT%20Image%20Sep%2029%2C%202026%2C%2001_57_42%20AM.png
 
-#EXTINF:-1 tvg-id="btvhd" tvg-logo="http://monirul.bro.bd/assets/images/BTV.HD1750866438.png" group-title="Bangla",BTV.HD
+#EXTINF:-1 tvg-id="btvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" group-title="Bangla",BTV.HD
 #https://btv.hridoytv-channel.workers.dev/btv.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
