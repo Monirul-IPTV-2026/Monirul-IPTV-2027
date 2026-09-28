@@ -98,3 +98,7 @@ http://103.185.24.134:3001/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="gtv" tvg-logo="http://monirul.bro.bd/assets/images/GTV1745042853.png" group-title="Bangla",GTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ekattor_tv" tvg-logo="http://monirul.bro.bd/assets/images/Ekattor Tv1750866647.png" group-title="Bangla",Ekattor Tv
+http://livetv.akr4m.com:8080/bdtv/restrem/19.m3u8
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
