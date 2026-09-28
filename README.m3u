@@ -45,4 +45,10 @@ https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-id="atn_news" tvg-logo="http://monirul.bro.bd/assets/images/ATN NEWS1745045113.png" group-title="Bangla",ATN NEWS
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
+#EXTINF:-1 tvg-chno="117" tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Recorded TV",Bangla Vision
+http://livetv.akr4m.com:8080/bdtv/restrem/7.m3u8
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/bijoy-tv.png" group-title="SM_IPTV",Bijoy TV
+http://livetv.akr4m.com:8080/bdtv/restrem/9.m3u8
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
