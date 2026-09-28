@@ -110,3 +110,8 @@ https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8?e=1782759193&u=f54c14
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Channels",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8?e=1782759193&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=faa7bc1d2779ec18df93f4493afa3192
+
+#EXTINF:-1 tvg-id="nagorik" tvg-logo="http://monirul.bro.bd/assets/images/NAGORIK1745042776.png" group-title="Bangla",NAGORIK
+http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
+https://box.bbaria.net:8083/Nagorik_TV/video.m3u8
+https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8?remote=103.114.23.14&token=205feaff08ac0e4c8c895093c6fc54225479a714-c02bf37325b9f215f8b11615ad227213-1782477110-1782466310
