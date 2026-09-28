@@ -66,4 +66,8 @@ https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/37.m3u8
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
-#EXTINF:-1 tvg-id="channel_24" tvg-logo="http://monirul.bro.bd/assets/images/CHANNEL 241745044263.png" group-title="Bangla",CHANNEL 24 #https://akash-by-hady.srhady.workers.dev/live/94.m3u8 http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-id="channel_24" tvg-logo="http://monirul.bro.bd/assets/images/CHANNEL 241745044263.png" group-title="Bangla",CHANNEL 24
+#https://akash-by-hady.srhady.workers.dev/live/94.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8
