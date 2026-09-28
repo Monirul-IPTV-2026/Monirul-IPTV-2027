@@ -1,3 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-id="MONIRUL0" tvg-name="MONIRUL FREE IPTV" tvg-logo="https://raw.githubusercontent.com/Monirul-IPTV-2026/Monirul-IPTV-2027/main/ChatGPT%20Image%20Sep%2030%2C%202026%2C%2001_07_19%20PM.png",MONIRUL FREE IPTV
 https://raw.githubusercontent.com/Monirul-IPTV-2026/Monirul-IPTV-2027/main/MONIRUL-IPTV-LOGO-30SEC.mp4
+
+#EXTINF:-1 tvg-chno="2" tvg-id="btvhd" tvg-name="BTV.HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Bangla",BTV.HD
+http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="btvctg" tvg-name="BTV CHITTAGONG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",BTV CHITTAGONG
+http://livetv.akr4m.com:8080/bdtv/restrem/11.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="atn_bangla" tvg-name="ATN BANGLA" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-bangla.png" group-title="Bangla",ATN BANGLA
+http://tvsen5.aynascope.net/atnbangla/index.m3u8
