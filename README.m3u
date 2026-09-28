@@ -132,3 +132,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 tvg-id="news24hd" tvg-logo="http://monirul.bro.bd/assets/images/NEWS.24.HD1750866866.png" group-title="Bangla",NEWS.24.HD
 http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+
+#EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="Channels",Bangla TV
+https://cdn.ghuddi.live/tvapp/Bangla_TV_BD_New/playlist.m3u8|Referer=https://ghuddi.tv/
+http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
