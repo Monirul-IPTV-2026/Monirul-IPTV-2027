@@ -136,3 +136,7 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="Channels",Bangla TV
 https://cdn.ghuddi.live/tvapp/Bangla_TV_BD_New/playlist.m3u8|Referer=https://ghuddi.tv/
 http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
+
+#EXTINF:-1 tvg-id="duranta_tv" tvg-logo="http://monirul.bro.bd/assets/images/DURANTA TV1745043400.png" group-title="Kids",DURANTA TV
+http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
+https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
