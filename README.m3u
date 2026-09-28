@@ -124,3 +124,7 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png" group-title="Recorded TV",Deepto TV
 http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="dbc_news" tvg-logo="http://monirul.bro.bd/assets/images/DBC NEWS1750866614.png" group-title="Bangla",DBC NEWS
+http://livetv.akr4m.com:8080/bdtv/restrem/36.m3u8
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
