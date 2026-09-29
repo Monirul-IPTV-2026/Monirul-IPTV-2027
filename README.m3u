@@ -165,3 +165,6 @@ https://flussonic.defineatoz.com/sony8/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 tvg-id="enterr_10" tvg-logo="http://monirul.bro.bd/assets/images/ENTERR 101745044330.png" group-title="Bangla",ENTERR 10
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1, ALL TIME BANGLA MOVIES
+https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
